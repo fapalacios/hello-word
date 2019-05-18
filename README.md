@@ -1,2 +1,2 @@
 # hello-word
-My first repository
+Hello! I'm F and I'm still learning the ropes.
